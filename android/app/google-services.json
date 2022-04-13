@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457795472563",
+    "project_id": "pt-jatinom-indah-agri",
+    "storage_bucket": "pt-jatinom-indah-agri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457795472563:android:952d23d0f1b3b1e322f4c6",
+        "android_client_info": {
+          "package_name": "com.jatinomindahagri.jia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457795472563-cpqdjsjosn7pjfhl58a2f8u8d5b4c8oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jatinomindahagri.jia",
+            "certificate_hash": "c6fa9bc45962d23c686e487e0b57f1d29a40736c"
+          }
+        },
+        {
+          "client_id": "457795472563-u8v3ucbdvaek5skfnnoucsb0vranvrgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQSdmlKBFSYdM3E1l8mo-Vq7ebHqg5Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457795472563-u8v3ucbdvaek5skfnnoucsb0vranvrgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
